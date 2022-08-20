@@ -15,29 +15,28 @@ title: Syllabus
 
 
 **Meeting Times:**
- - **Mondays & Fridays (11:00a-12:15p):** This class session is reserved for you to work as a team, unencumbered by "interference" from the faculty.  Your YCAS clients will frequently be available to work with you during this time, and can meet in-person with you, upon request.  I expect that the Privileged Walk team could be meeting in KEC 123 in-person via Zoom during this time, giving their status reports, assignment presentations, and milestones.  I will do my best to manage this issue, by reserving KEC 123  for that team for their presentations - but I can't guarantee that, yet.  Also, much of your work this semester will be conducted in the Project Workspace, testing the Radio Telescope, so you should also plan on meeting in the Project Workspace. 
+ - **Mondays & Fridays (11:00a-12:15p):** These class sessions are reserved for you to work as a team, unencumbered by "interference" from the faculty.  These meetings will occur in KEC 118 and/or the Project Workspace.  Your YCAS clients may be available to work with you during this time, and meet in-person with you, upon request.  Mmuch of your work this semester will be conducted in the Project Workspace, testing the Radio Telescope, so you should also plan on meeting in the Project Workspace.  AND, there will be times that we will be meeting at the YCAS Observatory to install and then test the Radio Telescope.
 
- - **Wednesdays (11:00a-12:15p):** This class session is reserved for weekly status updates, assignment presentations, and Milestone presentations.  We will most likely meet in KEC 118 for all weekly status updates, assignment presentations, and milestone - unless otherwise noted.  Your YCAS clients will likely be in attendance at these meetings, as well.  NOTE: It is not unusual for these in-class sessions to run well past 4:15 at times, especially during the status reports and milestone presentations.  If you have another class scheduled immediately following this class, please let me know, and I will try to make accomodations. For Milestone presentations, you might need to make accommodations with your other professors.<br>
+ - **Wednesdays (11:00a-12:15p):** This class session is reserved for weekly status updates, assignment presentations, and Milestone presentations.  We will meet **in-person** in KEC 123 and likely the Projet Workspace for Radio Telescope functional demonstrations for all weekly status updates, assignment presentations, and milestone - unless otherwise noted.  Your YCAS clients will likely be in attendance at these meetings, as well.  NOTE: It is not unusual for these in-class sessions to run well past 12:15 at times, especially during the status reports and milestone presentations.  If you have another class scheduled immediately following this class, please let me know, and I will try to make accomodations. For Milestone presentations, you might need to make accommodations with your other professors.<br>
  
-
-  
-**Location:** KEC 118 and/or KEC 121/KEC123 (the back 2 benches in KEC118 are reserved for the Radio Telescope project, the front 2 benches will be reserved for the Privileged Walk team.  We will ikely also conduct portions of the status meetings and presentations in the Project Workspace, where the Radio Telescope hardware is located.
+**Location:** KEC 123 and/or KEC 118 (the back 2 benches in KEC 118 are reserved for the Radio Telescope team, the remaining 3 benches are open for use by any other team.
+**Location:** KEC 118, KEC 123, and the Project Workspace (the back 2 benches in KEC 118 are reserved for the Radio Telescope project, the front 3 benches will be reserved for the other teams.  We will ikely also conduct portions of the status meetings and presentations in the Project Workspace, where the Radio Telescope hardware is located.
  
 **Webpage:**  [https://ycpcs.github.io/cs400-fall2022-RT/](https://ycpcs.github.io/cs400-fall2022-RT/)
 
 **Instructor:**
 
->[Donald J. Hake II](https://www.ycp.edu/academics/kinsley-school-of-engineering-sciences-and-technology/faculty/hake-ii-donald-j.php)<br>
+> Donald J. Hake II<br>
 **Email:** <djhake2@ycp.edu><br>
-**Office:** I no longer have an office, as I am no an adjunct professor<br>
-**Phone:** I will provide my cell #, upon request)<br>
-**Office Hours:** W-F: 12:15p to 1:00p and by appointment
+**Office:** At this time, there is no adjunct office, but there might be one assigned in the near future<br>
+**Phone:** I no longer have an office phone number<br>
+**Office Hours:** W-F: 12:15p to 1:00p (immediately following Capstone, and by appointment.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 ### Course Description
 
-This is the fifth (and last) year of a multi-year effort to design and develop the various software components for the York County Astronomical Society (YCAS) Radio Telescope, which is being developed in collaboration with the 2021-2022 Radio Telescope Engineering Capstone team.  This project is being developed under the direction of the course instructors and other Engineering and Computer Science faculty members, YCAS clients, recent York College Engineering and Computer Science graduates, and local industry partners.
+This is the fifth (and last) year of a multi-year effort to design and develop the various software components for the York County Astronomical Society (YCAS) Radio Telescope, which has been developed in collaboration with the Radio Telescope Engineering Capstone teams.  This project is being developed under the direction of the course instructors and other Engineering and Computer Science faculty members, YCAS clients, recent York College Engineering and Computer Science graduates, and local industry partners.
 
 There are currently 5 sub-projects (listed below).  Some of those sub-projects require significant additional work, others do not.  Our clients - Kerry SMith and Todd Ullery from the York County Astronomical Society (YCAS) - will determine the substance of the tasks to be accomplished, as this is expected to be the final year of major SW development for the project.
 
@@ -50,11 +49,11 @@ We will organize as teams of 1-3 people, working in a coordinated fashion to con
 	
 The standard user interface for the Radio Telescope is a web-based GUI.  The website and control room application interface via the AWS back-end server and local database.  The mobile development applications will also interact with the AWS back-end server and local database.  The simulation, visualization, and virtualization components will be able to substitute for the physical radio telescope, serve as SW test tools, and also be used as educational tools by YCAS.
 
-The previous 2021-2022 Radio Telescope CS Senior Design (CS481 and CS482) Engineering Capstone Team Drives have been shared with you - you can view all of their accumulated information.  It is not, however, open for you to create or edit content.  You are expected to build upon their work, but whatever content you do use, you must cite or reference the source.
+The previous 2021-2022 Radio Telescope CS Senior Design (CS481 and CS482) Engineering Capstone Team Drives have been shared with you - you can view all of their accumulated information, and continue development in that shared team drive.  You are expected to build upon their work, but whatever content you do use, you must cite or reference the source.
 
-Your YCAS clients, Kerry Smith and Todd Ullery, will be present at most meetings to provide mentorship, guidance, and provide requirements and task priorities, and serve as true real-world clients.  They will specify many of the requirements for the various SW components.  You will be expected to interact with them on a frequent, perhaps even daily basis, especially as you develop the requirements and specifications for this year's effort, and as you (and they) get deeper into testing your software.
+Your YCAS clients, Kerry Smith and Todd Ullery, will be present at some meetings to provide mentorship, guidance, and provide requirements and task priorities, and serve as true real-world clients.  They will specify many of the requirements for the various SW components.  You will be expected to interact with them on a frequent, perhaps even daily basis, especially as you develop the requirements and specifications for this year's effort, and as you (and they) get deeper into testing your software.
 
-The coming year's primary focus and effort, across CS481, CS482, and Engineering Capstone, will be to finish development, assemble, and test the final version of the SW and Radio Telescope SW and HW, as well as provide complete SW simulation of the Radio Telescope functionality.  We will be installing the Radio Telescope at the YCAS observatory at John C. Rudy County Park during late Spring 2022 and into the Summer of 2022.
+The coming year's primary focus and effort, across CS 400 will be to finish development, assemble, and test the final version of the SW and Radio Telescope SW and HW, as well as provide complete SW simulation of the Radio Telescope functionality.  We will be conducting final integration testing in the Project Workspace through early October, and then installing the Radio Telescope at the YCAS observatory at John C. Rudy County Park during the middle of October of 2022.  CS 402 (CS Capstone II) will be dedicated to additional development, testing, bug fixes, and final documentation of the Radio Telescope, after it has been installed at Rudy Park in the Fall.
 
 **Prerequisites:**  CS 320 with a grade of 2.0 or higher (or PC from Spring 2020)<br>
 **Credit:**		3 credit hours<br>
@@ -78,7 +77,7 @@ Your team's grade will be determined as a weighted average of the grades on the 
 
 
 
-NOTE: You will be presenting your work for each of these assignments in class on the Wednesdays they are due.  On the Wednesdays that you do not have an assignment or milestone due, you will be presenting progress reports, as part of assignment 2.  Your weekly journal entries are **due EVERY Wednesday by 3:00p, immediately prior to EVERY Wednesday class period, regardless of what else is due that day.**
+NOTE: You will be presenting your work for each of these assignments in class on the Wednesdays they are due.  On the Wednesdays that you do not have an assignment or milestone due, you will be presenting progress reports, as part of assignment 2.  Your weekly journal entries are **due EVERY Wednesday by 11:00pm, immediately prior to EVERY Wednesday class period, regardless of what else is due that day.**
 
 Individual course grades will be assigned on a 100-point scale according to the following table, and will be determined from your weekly progress journal entries and reports, combined with your team's grade, **multiplied by your individual effort factor determined from the results of your mid-term and final peer evaluations**:
 
@@ -98,7 +97,7 @@ Individual course grades will be assigned on a 100-point scale according to the 
 
 ### Attendance Policy
 
-**Attendance at every status/presentation meeting (Wednesdays) and every team meeting (Fridays) is mandatory**.
+**Attendance at every status/presentation meeting (Wednesdays) and every team meeting (Mondays & Fridays) is mandatory**.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
