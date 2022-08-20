@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS400-RT
-title: CS Capstone I: YCAS Radio Telescope Project
+title: CS Capstone I (YCAS Radio Telescope Project)
 ---
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
