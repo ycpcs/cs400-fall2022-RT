@@ -29,8 +29,8 @@ title: Syllabus
 > Donald J. Hake II<br>
 **Email:** <djhake2@ycp.edu><br>
 **Office:** At this time, there is no adjunct office, but there might be one assigned in the near future<br>
-**Phone:** I no longer have an office phone number<br>
-**Office Hours:** W-F: 12:15p to 1:00p (immediately following Capstone, and by appointment.
+**Phone:** I no longer have an office phone number, but I could be persuaded to provide my cell number<br>
+**Office Hours:** W-F: 12:15p to 1:00p (immediately following Capstone, and by appointment)
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
