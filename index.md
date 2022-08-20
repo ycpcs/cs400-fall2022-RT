@@ -72,26 +72,10 @@ NOTE: The primary focus of the coming year's effort is to finish SW development 
 ## News
 <!-- Commenting out News until it's needed - and the dates will change, anyway
 
-
-* 11-20-22: Moved the deadline for the Draft Tech Report to Mon, 12-6-21 by 7:00am
-
-* 11-18-22: Moved assign07 (Final Report and Peer Evals) to Sat, 12-11-21 by Noon
-
-* 11-18-22: Moved assign07 (Final Presentation) to Weds, 12-8-21, from 3:00p to 5:00p in KEC125.
-
-* 9-24-22: Moved Assign06 (50% Working System) to Weds, 11-10-21.
-
-* 9-24-22: Moved Assign05 (Minimum Working System) to Weds, 10-20-21.
-
-* 9-15-22: Moved Assign04 (Design) due date to Weds, 9-29-21.
-
-* 8-21-22: The Radio Telescope team will meet on a weekly basis for status report, and assignment and Milestone presentations on Wednesdays in-person in KEC 118.  Fridays will be reserved for team project work days to be arranged amongst yourselves.
-
 -->
 
-* 8-12-22: All students in CS 400 will be meeting on the first day of class (Mon, 8-22-22) in KEC 119 to go over the syllabus and requirements for the course.  We will also determine the regular meeting days for the various CS400 teams, and meet again later in the week on those days.  The Radio Telescope and Privilege Walk teams will likely have a longer meeting time on Monday, as those are established projects.
+* 8-20-22: The Radio Telescope team will meet on a weekly basis for status report, and assignment and Milestone presentations on Wednesdays **in-person** in KEC 123.  Mondays & Fridays will be reserved for team project work days to be arranged amongst yourselves.
+
+* 8-12-22: All students in CS 400 will be meeting on the first day of class (Mon, 8-22-22) in KEC 123 to go over the syllabus and requirements for the course.  We will also determine the regular meeting days for the various CS400 teams, and meet again later in the week on those days.  The Radio Telescope and Privilege Walk teams will likely have a longer meeting time this Monday, as those are established projects.
 
 * 8-12-22: Welcome back to Kinsley Engineering Center...  :-)
-
-
-
