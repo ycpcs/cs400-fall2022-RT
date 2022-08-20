@@ -91,6 +91,15 @@ Individual course grades will be assigned on a 100-point scale according to the 
 | ≥ 60 and &lt; 70  |   1.0    |
 | &lt; 60           |    0     |
 
+NOTE: Your individual grade will be based on your team's overall grade, as well as the results of your mid-semester and final peer evaluations, which will establish an effort factor that will be used to provide with a percentage of the team grade for which you will receive credit.  This portion of the grade will assess a variety of factors over the duration of the 
+semester-long project, including: individual level of effort, technical contributions 
+and competence, time management, motivation, teamwork, leadership, organization and 
+planning, communication skills, contributions to project documentation, and overall 
+attitude. The individual effort, technical contributions, and technical competence will 
+be determined by the amount and significance of git commits, weekly updates, and peer 
+evaluations.
+
+
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 
