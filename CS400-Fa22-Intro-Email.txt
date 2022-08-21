@@ -2,6 +2,7 @@ Greetings, and welcome back to campus for the Fall.  I wanted to provide you wit
 
 1) Our first class meeting (FOR ALL STUDENTS FROM ALL TEAMS) will be in KEC 123 this Monday (8-22-22) from 11:00am to 12:15pm to go over the course Syllabus, the projects, and my expectations for the semester.
 
+
 2) The course will be devoted to developing three client-based team projects this Fall:
 
    A) The Privilege Walk (PW) project (a second year project), which is a client-based application being developed for two YCP Psychology program faculty members: Dr. Perri Druen and Dr. Randi Shedlosky.
@@ -9,43 +10,47 @@ Greetings, and welcome back to campus for the Fall.  I wanted to provide you wit
    The Privilege Walk CS400 course website URL is given below.  You'll find the course syllabus and PW project schedule there.  If you are interested in this project, please review the entire contents of the the project's website before the first class on Monday, 8-22-22:
      <ycpcs.github.io/cs400-fall2022-PW>
    
-   B) The YCAS Radio Telescope (RT) project (5th and final year), which will be in its last year of major development, and will be working with their YCAS clients: Kerry Smith and Todd Ullery.  The Radio Telescope hardware will be installed in John C. Rudy Park around the middle of October, followed by final integration and acceptance testing and training of the YCAS clients.
+   B) The YCAS Radio Telescope (RT) project (5th and final year), which will be in its last year of major development.  We will be working with our YCAS clients: Kerry Smith and Todd Ullery.  The Radio Telescope hardware will be installed in John C. Rudy Park around the middle of October, followed by final integration and acceptance testing and training of the YCAS clients.
    
    The Radio Telescope CS400 course website URL is given below.  You'll find the course syllabus and RT project schedule there.  If you are iterested in this project, please review the entire contents of the project's website before the first class on Monday, 8-22-22:
      <ycpcs.github.io/cs400-fall2022-RT>
 	 
    C) We will be starting a new multi-year project this Fall: development of the YCPHacks website and database, along with the possible addition of cross-platform Mobile Application in the future.  This will also be a client based project, with David McHugh and Tyler Franks serving as your clients.  David and Tyler will be providing guidance for the team throughout the semester.
    
-   D) I am open to entertaining the possibility of a student-proposed project, but there must be evidence of a **HIGH LEVEL OF INTEREST AND COMMITMENT** to the completion of that project.  We have found, in the past, that student-driven senior projects are prone to schedule and feature slips, and overall under-perfomance.  In general, over the past four years, students have performed much better, and achieved greter levels of accomplishment, with a far better overall real-world experience through client-based projects.  In addition, we have also found that game projects tend to fail, or show minimal results, and do NOT achieve the outcomes required for CS Capstone.  Thus, I will be extrement reluctant to approve a proposal for a game project.
-   
-      The general CS400 course website URL is given below for the YCPHacks project and any other project that might get approved.  You'll find the general course syllabus and project development schedule there.  The status and milestone meeting dates are currently shown for Fridays, but that is subject to change depending on the distrubution of students across the various project teams:
+    The general CS400 course website URL is given below for the YCPHacks project and any other project that might get approved.  You'll find the general course syllabus and project development schedule there.  The status and milestone meeting dates are currently shown for Fridays, but that is subject to change depending on the distrubution of students across the various project teams:
      <ycpcs.github.io/cs400-fall2022>
-
    
-3) The Privilege Walk team will be resuming development of the project from the previous CS482 team's progress this past Spring, with some additional work performed over this past Summer.  The project team will be interacting with  their clients (Drs. Druen and Shedlosky) to define the scope, requirements, and development priorities for the project.  The project will most likely run 2 semesters, carrying over into CS402 in the Spring of 2023.  The returning Privilege Walk team members are:
+   D) I "might" be open to entertaining the possibility of a student-proposed project, but there must be evidence of a **HIGH LEVEL OF INTEREST AND COMMITMENT** to the completion of that project.  We have found, in the past, that student-driven senior projects are prone to schedule and feature slips, and overall under-perfomance.  In general, over the past four years, students have performed much better, and achieved greter levels of accomplishment, with a far better overall real-world experience through client-based projects.  In addition, we have also found that game projects tend to fail, or show minimal results, and do NOT achieve the outcomes required for CS Capstone.  Thus, I will be extremely reluctant to approve ANY proposal for a game project.
+      
+	  
+3) The Privilege Walk team will be resuming development of the project from the previous CS482 team's progress this past Spring, with some additional work performed over this past Summer.  The project team will be interacting with their clients (Drs. Druen and Shedlosky) to define the scope, requirements, and development priorities for the project.  The project will most likely run 2 semesters, carrying over into CS402 in the Spring of 2023.  The returning Privilege Walk team members are:
 
-   William Batchelor, wbatchelor@ycp.edu
-   Michael Feldman,   mfeldman1@ycp.edu
+   William Batchelor: wbatchelor@ycp.edu
+   Michael Feldman:   mfeldman1@ycp.edu
 
-Here are the YCP email addressed for the previous 3 team members, who graduted this past Spring:
-   Alexander Baldwin, abaldwin3@ycp.edu
-   Le Quient Lewis,   llewis9@ycp.edu
-   Saul Sanjuan,      ssanjuan@ycp.edu 
-   Chase Traina,      ctraina@ycp.edu
+Here are the YCP email addressed for the previous 4 team members, who graduated this past Spring:
+   Alexander Baldwin: abaldwin3@ycp.edu
+   Le Quient Lewis:   llewis9@ycp.edu
+   Saul Sanjuan:      ssanjuan@ycp.edu 
+   Chase Traina:      ctraina@ycp.edu
    
    The Privilege Walk team status meetings, assignment presentations, and Milestone presentations will be given on Fridays from 11:00am to 12:15pm in-person in KEC 123, also using Zoom so that Dr. Druen can attend the meetings.  The regular PW team work sessions will on Mondays and Wednesdays from 11:00am to 12:15pm in KEC 123 and/or KEC 118.
 
 
-4) The Radio Telescope team will be picking up on the work that the previous Engineering Capstone accomplished over the Summer.  The project is going into its final assembly and integration testing phase, and will be involved eith the final installation of the Radio Telescope at YCAS Observatory at John C. Rudy Park laster this Fall.  The returning Radio Telescope team members are:
+4) The Radio Telescope team will be picking up on the work that the previous Engineering Capstone team accomplished over the Summer.  The project is going into its final assembly and integration testing phase, and will be involved eith the final installation of the Radio Telescope at YCAS Observatory at John C. Rudy Park later this Fall.  The returning Radio Telescope team members are:
 
-   Liam Bradley,      lbradley1@ycp.edu
-   Derrek Herr,       dherr@ycp.edu
-   Josh Snyder,       jsnyder1@ycp.edu
+   Liam Bradley:      lbradley1@ycp.edu
+   Derrek Herr:       dherr@ycp.edu
+   Josh Snyder:       jsnyder1@ycp.edu
+   
+Here are the YCP emails for the Engineering Capstone ECE team that just graduated this Summer:
+   Eric Bosse:        ebosse@ycp.edu 
+   Blake Nelson:      bnelson13@ycp.edu
+   Mikayla Trost:     mtrost1@ycp.edu
 
 Your tutors/mentors coming from last year's team are:
-
-   Tyler Franks,      tfranks@ycp.edu
-   David McHugh,      dmchugh@ycp.edu
+   Tyler Franks:      tfranks@ycp.edu
+   David McHugh:      dmchugh@ycp.edu
    
    The Radio Telescope team status meetings, assignment presentations, and Milestone presentations will be given on Wednesdays from 11:00am to 12:15pm in-person in KEC 118 / KEC 123 and/or the Project Workspace.  The regular team work sessions will on Mondays and Fridays from 11:00am to 12:15pm in KEC 118 and/or the Project Workspace.
    
