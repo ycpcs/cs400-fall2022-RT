@@ -74,6 +74,17 @@ NOTE: The primary focus of the coming year's effort is to finish SW development 
 
 -->
 
+* 8-27-22: Assignment 4 (Analysis & Design) is due by 11:00am, Wednesday, 9-21-22, with presentation during class
+
+* 8-27-22: Assignment 3 (Requirements) is due by 11:00am, Wednesday, 9-14-22, with presentation during class
+
+* 8-27-22: Assignment 2 (Weekly Journals) are due every Wednesday by 11:00am (prior to class), with a summary presentation in class on the days that do not already have another assignment due
+
+* 8-27-22: Assignment 1 (Readiness Demo) is due by 11:00am, Wednesday, 9-7-22, with presentation during class
+
+* 8-27-22: Assignment 1 (Project Proposal) is due by 11:00am, Wednesday, 9-7-22, with presentation during class
+
+
 * 8-20-22: The Radio Telescope team will meet on a weekly basis for status report, and assignment and Milestone presentations on Wednesdays **in-person** in KEC 123.  Mondays & Fridays will be reserved for team project work days to be arranged amongst yourselves.
 
 * 8-12-22: All students in CS 400 will be meeting on the first day of class (Mon, 8-22-22) in KEC 123 to go over the syllabus and requirements for the course.  We will also determine the regular meeting days for the various CS400 teams, and meet again later in the week on those days.  The Radio Telescope and Privilege Walk teams will likely have a longer meeting time this Monday, as those are established projects.
