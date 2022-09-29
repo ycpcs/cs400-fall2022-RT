@@ -74,6 +74,10 @@ NOTE: The primary focus of the coming year's effort is to finish SW development 
 
 -->
 
+* 9-29-22: Mid-Semester Peer Evals are due Saturday, 10-29-22 by Noon, via email in PDF form
+
+* 9-29-22: Assignment 5 (Milestone 1 Presentation & Demo) is due 11:00am, Wednesday, 10-26-22, with presentation during class **(includes installation & video demonstration of manual operation of Radio Telescope at John C. Rudy Park)**
+
 * 8-27-22: Assignment 4 (Analysis & Design) is due by 11:00am, Wednesday, 9-21-22, with presentation during class
 
 * 8-27-22: Assignment 3 (Requirements) is due by 11:00am, Wednesday, 9-14-22, with presentation during class
