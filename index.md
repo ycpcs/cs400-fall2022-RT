@@ -74,6 +74,8 @@ NOTE: The primary focus of the coming year's effort is to finish SW development 
 
 -->
 
+* 9-29-22: Assignment 6 (Milestone 2 Presentation & Demo) has been moved to 11:00am, Wednesday, 11-16-22, with presentation during class **(includes video demonstration of appointment operation of Radio Telescope at John C. Rudy Park)**
+
 * 9-29-22: Mid-Semester Peer Evals are due Saturday, 10-29-22 by Noon, via email in PDF form
 
 * 9-29-22: Assignment 5 (Milestone 1 Presentation & Demo) is due 11:00am, Wednesday, 10-26-22, with presentation during class **(includes installation & video demonstration of manual operation of Radio Telescope at John C. Rudy Park)**
