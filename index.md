@@ -70,15 +70,21 @@ NOTE: The primary focus of the coming year's effort is to finish SW development 
 -->
 
 ## News
-<!-- Commenting out News until it's needed - and the dates will change, anyway
+<!-- Commenting out News until it's needed - and the dates could change, anyway
+
+* 11-14-22: Assignment 7 (Final Report and Final Peer Evals) are both due by Noon, Sunday, 12-11-22
+
+* 11-14-22: Assignment 7 (Final System Presentation) is from 5:15pm to 7:15pm, on Wednesday, 12-7-22, with presentation and demo in KEC 125 and the Project Workspace, to be followed by a celebratory dinner
+
+* 11-14-22: Assignment 7 (Draft Technical Report) is due by Noon, Sunday, 12-4-22, in your Google Team Drive
 
 -->
 
-* 9-29-22: Assignment 6 (Milestone 2 Presentation & Demo) has been moved to 11:00am, Wednesday, 11-16-22, with presentation during class **(includes video demonstration of appointment operation of Radio Telescope at John C. Rudy Park)**
+* 10-28-22: Assignment 6 (Milestone 2 Preentation & Demo) is at 11:00am, Wednesday, 11-16-22, with presentation and demo in KEC 123 and the Project Workspace
 
 * 9-29-22: Mid-Semester Peer Evals are due Saturday, 10-29-22 by Noon, via email in PDF form
 
-* 9-29-22: Assignment 5 (Milestone 1 Presentation & Demo) is due 11:00am, Wednesday, 10-26-22, with presentation during class **(includes installation & video demonstration of manual operation of Radio Telescope at John C. Rudy Park)**
+* 9-29-22: Assignment 5 (Milestone 1 Presentation & Demo) is at 11:00am, Wednesday, 10-26-22, with presentation and demo during class **(visiting IEEE Life Members will be in attendance)**
 
 * 8-27-22: Assignment 4 (Analysis & Design) is due by 11:00am, Wednesday, 9-21-22, with presentation during class
 
