@@ -80,7 +80,7 @@ NOTE: The primary focus of the coming year's effort is to finish SW development 
 
 -->
 
-* 10-28-22: Assignment 6 (Milestone 2 Preentation & Demo) is at 11:00am, Wednesday, 11-16-22, with presentation and demo in KEC 123 and the Project Workspace
+* 10-28-22: Assignment 6 (Milestone 2 Presentation & Demo) is at 11:00am, Wednesday, 11-16-22, with presentation and demo in KEC 123 and the Project Workspace
 
 * 9-29-22: Mid-Semester Peer Evals are due Saturday, 10-29-22 by Noon, via email in PDF form
 
